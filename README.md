@@ -1,1 +1,1 @@
-# JavaCource_2017
+# JavaCourse_2017
