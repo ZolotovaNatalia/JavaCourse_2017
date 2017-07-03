@@ -9,7 +9,6 @@ public class Echo {
     private static final String DELIMITER = " ";
 
     public static void main(String[] args) {
-        // args[0] contains the name of the program
         List<String> arguments = Arrays.asList(args);
         String concatenateArguments = EMPTY_STRING;
         for (String argument : arguments) {
